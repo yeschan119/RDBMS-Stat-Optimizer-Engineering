@@ -1,7 +1,7 @@
 # RDBMS Statistics & Optimizer Engineering
 ### Database Statistics Collection, Management, and Query Plan Optimization
 
-[한국어 🇰🇷](README.Ko.md)
+[한국어 🇰🇷](README.md)
 
 This repository documents engineering work related to the database statistics subsystem inside an RDBMS engine.
 
